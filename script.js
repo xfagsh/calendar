@@ -135,3 +135,6 @@ document.querySelector(".next").addEventListener("click", () => {
 renderCalendar();
 
 dragAndDrop();
+
+
+// пишите изменения
